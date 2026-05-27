@@ -1,0 +1,173 @@
+id,Rank,Major,Total,Men,Women,Major_category,ShareWomen,Employed,Unemployed,Unemployment_rate,Median
+1,1,"""Petroleum Engineering""",2339,2057,282,"""Engineering""",0.120564344,1976,37,0.018380527,110000
+2,2,"""Mining And Mineral Engineering""",756,679,77,"""Engineering""",0.101851852,640,85,0.117241379,75000
+3,3,"""Metallurgical Engineering""",856,725,131,"""Engineering""",0.153037383,648,16,0.024096386,73000
+4,4,"""Naval Architecture And Marine Engineering""",1258,1123,135,"""Engineering""",0.107313196,758,40,0.050125313,70000
+5,5,"""Chemical Engineering""",32260,21239,11021,"""Engineering""",0.341630502,25694,1672,0.061097712,65000
+6,6,"""Nuclear Engineering""",2573,2200,373,"""Engineering""",0.144966965,1857,400,0.177226407,65000
+7,7,"""Actuarial Science""",3777,2110,1667,"""Business""",0.441355573,2912,308,0.095652174,62000
+8,8,"""Astronomy And Astrophysics""",1792,832,960,"""Physical Sciences""",0.535714286,1526,33,0.021167415,62000
+9,9,"""Mechanical Engineering""",91227,80320,10907,"""Engineering""",0.119558903,76442,4650,0.057342278,60000
+10,10,"""Electrical Engineering""",81527,65511,16016,"""Engineering""",0.196450256,61928,3895,0.059173845,60000
+11,11,"""Computer Engineering""",41542,33258,8284,"""Engineering""",0.199412643,32506,2275,0.065409275,60000
+12,12,"""Aerospace Engineering""",15058,12953,2105,"""Engineering""",0.139792801,11391,794,0.065162085,60000
+13,13,"""Biomedical Engineering""",14955,8407,6548,"""Engineering""",0.437846874,10047,1019,0.09208386,60000
+14,14,"""Materials Science""",4279,2949,1330,"""Engineering""",0.310820285,3307,78,0.023042836,60000
+15,15,"""Engineering Mechanics Physics And Science""",4321,3526,795,"""Engineering""",0.183985189,3608,23,0.006334343,58000
+16,16,"""Biological Engineering""",8925,6062,2863,"""Engineering""",0.320784314,6170,589,0.087143069,57100
+17,17,"""Industrial And Manufacturing Engineering""",18968,12453,6515,"""Engineering""",0.343473218,15604,699,0.042875544,57000
+18,18,"""General Engineering""",61152,45683,15469,"""Engineering""",0.252959838,44931,2859,0.059824231,56000
+19,19,"""Architectural Engineering""",2825,1835,990,"""Engineering""",0.350442478,2575,170,0.061930783,54000
+20,20,"""Court Reporting""",1148,877,271,"""Law & Public Policy""",0.236062718,930,11,0.011689692,54000
+21,21,"""Computer Science""",128319,99743,28576,"""Computers & Mathematics""",0.222695002,102087,6884,0.063172771,53000
+22,23,"""Electrical Engineering Technology""",11565,8181,3384,"""Engineering""",0.292607004,8587,824,0.087557114,52000
+23,24,"""Materials Engineering And Materials Science""",2993,2020,973,"""Engineering""",0.325091881,2449,70,0.027788805,52000
+24,25,"""Management Information Systems And Statistics""",18713,13496,5217,"""Business""",0.278790146,16413,1015,0.058239614,51000
+25,26,"""Civil Engineering""",53153,41081,12072,"""Engineering""",0.227117943,43041,3270,0.070609574,50000
+26,27,"""Construction Services""",18498,16820,1678,"""Industrial Arts & Consumer Services""",0.090712509,16318,1042,0.060023041,50000
+27,28,"""Operations Logistics And E-Commerce""",11732,7921,3811,"""Business""",0.32483805,10027,504,0.047858703,50000
+28,29,"""Miscellaneous Engineering""",9133,7398,1735,"""Engineering""",0.189970437,7428,597,0.074392523,50000
+29,30,"""Public Policy""",5978,2639,3339,"""Law & Public Policy""",0.558548009,4547,670,0.128426299,50000
+30,31,"""Environmental Engineering""",4047,2662,1385,"""Engineering""",0.342228811,2983,308,0.093588575,50000
+31,32,"""Engineering Technologies""",3600,2695,905,"""Engineering""",0.251388889,2799,163,0.055030385,50000
+32,33,"""Miscellaneous Fine Arts""",3340,1970,1370,"""Arts""",0.410179641,2914,286,0.089375,50000
+33,34,"""Geological And Geophysical Engineering""",720,488,232,"""Engineering""",0.322222222,604,49,0.075038285,50000
+34,35,"""Nursing""",209394,21773,187621,"""Health""",0.896018988,180903,8497,0.044862724,48000
+35,36,"""Finance""",174506,115030,59476,"""Business""",0.340824957,145696,9413,0.060686356,47000
+36,37,"""Economics""",139247,89749,49498,"""Social Science""",0.355469059,104117,11452,0.099092317,47000
+37,38,"""Business Economics""",13302,7575,5727,"""Business""",0.430536761,10914,1165,0.096448381,46000
+38,39,"""Industrial Production Technologies""",4631,3477,1154,"""Engineering""",0.24919024,4428,129,0.028308097,46000
+39,40,"""Nuclear, Industrial Radiology, And Biological Technologies""",2116,528,1588,"""Physical Sciences""",0.75047259,1778,137,0.07154047,46000
+40,41,"""Accounting""",198633,94519,104114,"""Business""",0.524152583,165527,12411,0.069749014,45000
+41,42,"""Mathematics""",72397,39956,32441,"""Computers & Mathematics""",0.448098678,58118,2884,0.047277138,45000
+42,43,"""Computer And Information Systems""",36698,27392,9306,"""Computers & Mathematics""",0.253583302,28459,2934,0.093460326,45000
+43,44,"""Physics""",32142,23080,9062,"""Physical Sciences""",0.281936407,25302,1282,0.048224496,45000
+44,45,"""Medical Technologies Technicians""",15914,3916,11998,"""Health""",0.75392736,13150,505,0.03698279,45000
+45,46,"""Information Sciences""",11913,9005,2908,"""Computers & Mathematics""",0.244103081,9881,639,0.060741445,45000
+46,47,"""Statistics And Decision Science""",6251,2960,3291,"""Computers & Mathematics""",0.526475764,4247,401,0.086273666,45000
+47,48,"""Applied Mathematics""",4939,2794,2145,"""Computers & Mathematics""",0.434298441,3854,385,0.090823307,45000
+48,49,"""Pharmacology""",1762,515,1247,"""Biology & Life Science""",0.707718502,1144,107,0.085531575,45000
+49,50,"""Oceanography""",2418,752,1666,"""Physical Sciences""",0.688999173,1638,99,0.056994819,44700
+50,51,"""Engineering And Industrial Management""",2906,2400,506,"""Engineering""",0.174122505,2125,74,0.03365166,44000
+51,52,"""Medical Assisting Services""",11123,803,10320,"""Health""",0.927807246,9168,407,0.042506527,42000
+52,53,"""Mathematics And Computer Science""",609,500,109,"""Computers & Mathematics""",0.178981938,559,0,0.0,42000
+53,54,"""Computer Programming And Data Processing""",4168,3046,1122,"""Computers & Mathematics""",0.269193858,3257,419,0.11398259,41300
+54,55,"""Cognitive Science And Biopsychology""",3831,1667,2164,"""Biology & Life Science""",0.56486557,2741,223,0.075236167,41000
+55,56,"""School Student Counseling""",818,119,699,"""Education""",0.854523227,730,88,0.107579462,41000
+56,57,"""International Relations""",28187,10345,17842,"""Social Science""",0.632986838,21190,2271,0.096798943,40100
+57,58,"""General Business""",234590,132238,102352,"""Business""",0.436301633,190183,14946,0.072861468,40000
+58,59,"""Architecture""",46420,25463,20957,"""Engineering""",0.451464886,34158,4366,0.113331949,40000
+59,60,"""International Business""",25894,10624,15270,"""Business""",0.589711902,19660,2092,0.096175064,40000
+60,61,"""Pharmacy Pharmaceutical Sciences And Administration""",23551,8697,14854,"""Health""",0.630716318,16620,977,0.055520827,40000
+61,62,"""Molecular Biology""",18300,7426,10874,"""Biology & Life Science""",0.59420765,11581,1067,0.084361164,40000
+62,63,"""Miscellaneous Business & Medical Administration""",17947,10285,7662,"""Business""",0.42692372,14826,1150,0.071982974,40000
+63,64,"""Agriculture Production And Management""",14240,9658,4582,"""Agriculture & Natural Resources""",0.321769663,12323,649,0.050030836,40000
+64,65,"""General Agriculture""",10399,6053,4346,"""Agriculture & Natural Resources""",0.4179248,8884,178,0.019642463,40000
+65,66,"""Miscellaneous Engineering Technologies""",8804,7043,1761,"""Engineering""",0.200022717,7502,416,0.05253852,40000
+66,67,"""Mechanical Engineering Related Technologies""",4790,4419,371,"""Engineering""",0.077453027,4186,250,0.056357078,40000
+67,68,"""Genetics""",3635,1761,1874,"""Biology & Life Science""",0.515543329,2463,87,0.034117647,40000
+68,69,"""Miscellaneous Social Sciences""",3283,1499,1784,"""Social Science""",0.543405422,2727,215,0.073079538,40000
+69,70,"""United States History""",3079,1756,1323,"""Humanities & Liberal Arts""",0.429684963,2787,138,0.047179487,40000
+70,71,"""Industrial And Organizational Psychology""",3014,1075,1939,"""Psychology & Social Work""",0.643331121,2343,286,0.108786611,40000
+71,72,"""Agricultural Economics""",2439,1749,690,"""Agriculture & Natural Resources""",0.282902829,2174,182,0.077249576,40000
+72,73,"""Physical Sciences""",1436,894,542,"""Physical Sciences""",0.377437326,1146,42,0.035353535,40000
+73,74,"""Military Technologies""",124,124,0,"""Industrial Arts & Consumer Services""",0,0,0,0.0,40000
+74,75,"""Chemistry""",66530,32923,33607,"""Physical Sciences""",0.505140538,48535,2769,0.0539724,39000
+75,76,"""Electrical, Mechanical, And Precision Technologies And Production""",2435,1869,566,"""Industrial Arts & Consumer Services""",0.232443532,2107,64,0.029479503,38400
+76,77,"""Business Management And Administration""",329927,173809,156118,"""Business""",0.473189524,276234,21502,0.072218341,38000
+77,78,"""Marketing And Marketing Research""",205211,78857,126354,"""Business""",0.615727227,178862,11663,0.061215064,38000
+78,79,"""Political Science And Government""",182621,93880,88741,"""Social Science""",0.485929877,133454,15022,0.101174601,38000
+79,80,"""Geography""",18480,11404,7076,"""Social Science""",0.382900433,14057,1799,0.113458628,38000
+80,81,"""Microbiology""",15232,6383,8849,"""Biology & Life Science""",0.580948004,9685,693,0.066775872,38000
+81,82,"""Computer Administration Management And Security""",8066,6607,1459,"""Computers & Mathematics""",0.180882718,6509,721,0.099723375,37500
+82,83,"""Biochemical Sciences""",39107,18951,20156,"""Biology & Life Science""",0.515406449,25678,2249,0.080531385,37400
+83,84,"""Botany""",1329,626,703,"""Biology & Life Science""",0.52896915,1010,0,0.0,37000
+84,85,"""Computer Networking And Telecommunications""",7613,5291,2322,"""Computers & Mathematics""",0.305004597,6144,1100,0.151849807,36400
+85,86,"""Geology And Earth Science""",10972,5813,5159,"""Physical Sciences""",0.470196865,8296,677,0.075448568,36200
+86,87,"""Human Resources And Personnel Management""",24497,6184,18313,"""Business""",0.747560926,20760,1315,0.059569649,36000
+87,88,"""Pre-Law And Legal Studies""",13528,4435,9093,"""Law & Public Policy""",0.672161443,9762,757,0.071965016,36000
+88,89,"""Miscellaneous Health Medical Professions""",13386,1589,11797,"""Health""",0.881293889,10076,893,0.08141125,36000
+89,90,"""Public Administration""",5629,2947,2682,"""Law & Public Policy""",0.476461183,4158,789,0.1594906,36000
+90,91,"""Geosciences""",1978,809,1169,"""Physical Sciences""",0.591001011,1441,36,0.024373731,36000
+91,92,"""Social Psychology""",1386,413,973,"""Psychology & Social Work""",0.702020202,1080,33,0.029649596,36000
+92,93,"""Environmental Science""",25965,10787,15178,"""Biology & Life Science""",0.584556133,20859,1779,0.078584681,35600
+93,94,"""Communications""",213996,70619,143377,"""Communications & Journalism""",0.669998505,179633,14602,0.075176976,35000
+94,95,"""Criminal Justice And Fire Protection""",152824,80231,72593,"""Law & Public Policy""",0.47501047,125393,11268,0.082452199,35000
+95,96,"""Commercial Art And Graphic Design""",103480,32041,71439,"""Arts""",0.690365288,83483,8947,0.096797577,35000
+96,97,"""Journalism""",72619,23736,48883,"""Communications & Journalism""",0.673143392,61022,4535,0.069176442,35000
+97,98,"""Multi-Disciplinary Or General Science""",62052,27015,35037,"""Physical Sciences""",0.564639335,46138,2727,0.055806815,35000
+98,99,"""Advertising And Public Relations""",53162,12862,40300,"""Communications & Journalism""",0.758060269,45326,3305,0.067960766,35000
+99,100,"""Area Ethnic And Civilization Studies""",31195,8739,22456,"""Humanities & Liberal Arts""",0.719858952,24629,1668,0.063429289,35000
+100,101,"""Special Needs Education""",28739,2682,26057,"""Education""",0.906677337,24639,1067,0.041507819,35000
+101,102,"""Physiology""",22060,8422,13638,"""Biology & Life Science""",0.618223028,14643,1088,0.0691628,35000
+102,103,"""Criminology""",19879,10031,9848,"""Social Science""",0.495397153,16181,1743,0.097243919,35000
+103,104,"""Nutrition Sciences""",18909,2563,16346,"""Health""",0.864456079,13217,975,0.068700676,35000
+104,105,"""Health And Medical Administrative Services""",18109,4266,13843,"""Health""",0.764426528,15419,1518,0.089626262,35000
+105,106,"""Communication Technologies""",18035,11431,6604,"""Computers & Mathematics""",0.366176878,14779,2006,0.119511469,35000
+106,107,"""Transportation Sciences And Technologies""",15150,13257,1893,"""Industrial Arts & Consumer Services""",0.124950495,12266,962,0.072724524,35000
+107,108,"""Natural Resources Management""",13773,8617,5156,"""Agriculture & Natural Resources""",0.374355623,11797,842,0.066619195,35000
+108,109,"""Neuroscience""",13663,4944,8719,"""Biology & Life Science""",0.63814682,9087,463,0.048481675,35000
+109,110,"""Multi/Interdisciplinary Studies""",12296,2817,9479,"""Interdisciplinary""",0.770901106,9821,749,0.070860927,35000
+110,111,"""Atmospheric Sciences And Meteorology""",4043,2744,1299,"""Physical Sciences""",0.321296067,3431,78,0.022228555,35000
+111,112,"""Forestry""",3607,3156,451,"""Agriculture & Natural Resources""",0.125034655,3007,322,0.096725743,35000
+112,113,"""Soil Science""",685,476,209,"""Agriculture & Natural Resources""",0.305109489,613,0,0.0,35000
+113,114,"""General Education""",143718,26893,116825,"""Education""",0.812876606,118241,7195,0.057359929,34000
+114,115,"""History""",141951,78253,63698,"""Humanities & Liberal Arts""",0.448732309,105646,11176,0.095666912,34000
+115,116,"""French German Latin And Other Common Foreign Language Studies""",48246,12835,35411,"""Humanities & Liberal Arts""",0.733967583,38315,3132,0.075566386,34000
+116,117,"""Intercultural And International Studies""",24650,8575,16075,"""Humanities & Liberal Arts""",0.652129817,18824,1718,0.083633531,34000
+117,118,"""Social Science Or History Teacher Education""",20198,9950,10248,"""Education""",0.507376968,17700,1012,0.054082941,34000
+118,119,"""Community And Public Health""",19735,4103,15632,"""Health""",0.792095262,14512,1833,0.112144387,34000
+119,120,"""Mathematics Teacher Education""",14237,3872,10365,"""Education""",0.728032591,13115,216,0.016202835,34000
+120,121,"""Educational Administration And Supervision""",804,280,524,"""Education""",0.651741294,703,0,0.0,34000
+121,122,"""Health And Medical Preparatory Programs""",12740,5521,7219,"""Health""",0.566640502,7052,529,0.069779712,33500
+122,123,"""Miscellaneous Biology""",10706,4747,5959,"""Biology & Life Science""",0.556603774,7767,483,0.058545455,33500
+123,124,"""Biology""",280709,111762,168947,"""Biology & Life Science""",0.601858152,182295,13874,0.070724732,33400
+124,125,"""Sociology""",115433,32510,82923,"""Social Science""",0.718364766,92721,8608,0.084951001,33000
+125,126,"""Mass Media""",52824,24704,28120,"""Communications & Journalism""",0.532333788,44679,4410,0.089836827,33000
+126,127,"""Treatment Therapy Professions""",48491,13487,35004,"""Health""",0.721865913,37861,2409,0.059821207,33000
+127,128,"""Hospitality Management""",43647,15204,28443,"""Business""",0.651659908,36728,2393,0.061169193,33000
+128,129,"""Language And Drama Education""",30471,3741,26730,"""Education""",0.877227528,26033,1379,0.050306435,33000
+129,130,"""Linguistics And Comparative Language And Literature""",16601,4416,12185,"""Humanities & Liberal Arts""",0.733991928,11165,1302,0.10443571,33000
+130,131,"""Miscellaneous Education""",10150,3654,6496,"""Education""",0.64,8691,547,0.059211951,33000
+131,132,"""Interdisciplinary Social Sciences""",9916,2337,7579,"""Social Science""",0.76432029,7444,757,0.092305816,33000
+132,133,"""Ecology""",9154,3878,5276,"""Biology & Life Science""",0.576360061,7585,437,0.054475193,33000
+133,134,"""Secondary Teacher Education""",17125,6820,10305,"""Education""",0.601751825,15116,833,0.05222898,32500
+134,135,"""General Medical And Health Services""",33599,7574,26025,"""Health""",0.774576624,24406,2183,0.082101621,32400
+135,136,"""Philosophy And Religious Studies""",54814,31967,22847,"""Humanities & Liberal Arts""",0.416809574,40157,4267,0.096051684,32200
+136,137,"""Art And Music Education""",34181,10732,23449,"""Education""",0.6860244,30007,1206,0.038637747,32100
+137,138,"""English Language And Literature""",194673,58227,136446,"""Humanities & Liberal Arts""",0.70089843,149180,14345,0.08772359,32000
+138,139,"""Elementary Education""",170862,13029,157833,"""Education""",0.923745479,149339,7297,0.046585715,32000
+139,140,"""Physical Fitness Parks Recreation And Leisure""",125074,62181,62893,"""Industrial Arts & Consumer Services""",0.502846315,103078,5593,0.051467273,32000
+140,141,"""Liberal Arts""",71369,22339,49030,"""Humanities & Liberal Arts""",0.686992952,54844,4657,0.078267592,32000
+141,142,"""Film Video And Photographic Arts""",38761,22357,16404,"""Arts""",0.423208896,31433,3718,0.10577224,32000
+142,143,"""General Social Sciences""",12920,5079,7841,"""Social Science""",0.606888545,9602,1108,0.103454715,32000
+143,144,"""Plant Science And Agronomy""",7416,4897,2519,"""Agriculture & Natural Resources""",0.339670982,6594,314,0.045454545,32000
+144,145,"""Science And Computer Teacher Education""",6483,2049,4434,"""Education""",0.683942619,5362,266,0.047263682,32000
+145,146,"""Psychology""",393735,86648,307087,"""Psychology & Social Work""",0.779933204,307933,28169,0.083810867,31500
+146,147,"""Music""",60633,29909,30724,"""Arts""",0.506720763,47662,3918,0.075959674,31000
+147,148,"""Physical And Health Education Teaching""",28213,15670,12543,"""Education""",0.444582285,23794,1920,0.074667496,31000
+148,149,"""Art History And Criticism""",21030,3240,17790,"""Humanities & Liberal Arts""",0.845934379,17579,1128,0.060298284,31000
+149,150,"""Fine Arts""",74440,24786,49654,"""Arts""",0.667033853,59679,5486,0.084186296,30500
+150,151,"""Family And Consumer Sciences""",58001,5166,52835,"""Industrial Arts & Consumer Services""",0.91093257,46624,3355,0.067128194,30000
+151,152,"""Social Work""",53552,5137,48415,"""Psychology & Social Work""",0.904074544,45038,3329,0.06882792,30000
+152,153,"""Animal Sciences""",21573,5347,16226,"""Agriculture & Natural Resources""",0.752143884,17112,917,0.050862499,30000
+153,154,"""Visual And Performing Arts""",16250,4133,12117,"""Arts""",0.745661538,12870,1465,0.102197419,30000
+154,155,"""Teacher Education: Multiple Levels""",14443,2734,11709,"""Education""",0.810704147,13076,496,0.03654583,30000
+155,156,"""Miscellaneous Psychology""",9628,1936,7692,"""Psychology & Social Work""",0.798919817,7653,419,0.05190783,30000
+156,157,"""Human Services And Community Organization""",9374,885,8489,"""Psychology & Social Work""",0.90558993,8294,326,0.037819026,30000
+157,158,"""Humanities""",6652,2013,4639,"""Humanities & Liberal Arts""",0.697384245,5052,372,0.068584071,30000
+158,159,"""Theology And Religious Vocations""",30207,18616,11591,"""Humanities & Liberal Arts""",0.383719006,24202,1617,0.062628297,29000
+159,160,"""Studio Arts""",16977,4754,12223,"""Arts""",0.719974083,13908,1368,0.089552239,29000
+160,161,"""Cosmetology Services And Culinary Arts""",10510,4364,6146,"""Industrial Arts & Consumer Services""",0.584776403,8650,510,0.055676856,29000
+161,162,"""Miscellaneous Agriculture""",1488,404,1084,"""Agriculture & Natural Resources""",0.728494624,1290,82,0.059766764,29000
+162,163,"""Anthropology And Archeology""",38844,11376,27468,"""Humanities & Liberal Arts""",0.707136237,29633,3395,0.102791571,28000
+163,164,"""Communication Disorders Sciences And Services""",38279,1225,37054,"""Health""",0.967998119,29763,1487,0.047584,28000
+164,165,"""Early Childhood Education""",37589,1167,36422,"""Education""",0.968953683,32551,1360,0.040104981,28000
+165,166,"""Other Foreign Languages""",11204,3472,7732,"""Humanities & Liberal Arts""",0.690110675,7052,846,0.107115726,27500
+166,167,"""Drama And Theater Arts""",43249,14440,28809,"""Arts""",0.666119448,36165,3040,0.07754113,27000
+167,168,"""Composition And Rhetoric""",18953,7022,11931,"""Humanities & Liberal Arts""",0.629504564,15053,1340,0.081742207,27000
+168,169,"""Zoology""",8409,3050,5359,"""Biology & Life Science""",0.637293376,6259,304,0.04632028,26000
+169,170,"""Educational Psychology""",2854,522,2332,"""Psychology & Social Work""",0.817098809,2125,148,0.065112187,25000
+170,171,"""Clinical Psychology""",2838,568,2270,"""Psychology & Social Work""",0.799859056,2101,368,0.149048198,25000
+171,172,"""Counseling Psychology""",4626,931,3695,"""Psychology & Social Work""",0.798746217,3777,214,0.053620646,23400
+172,173,"""Library Science""",1098,134,964,"""Education""",0.877959927,742,87,0.104945718,22000
